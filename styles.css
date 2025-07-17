@@ -41,8 +41,8 @@ input[type="password"] {
 
 button[type="submit"]{
     padding: 10px;
-    background-color: #6C63FF; /* violet-blue pop */
-    color: #FFFFFF; /* white text for contrast */
+    background-color: #6C63FF;
+    color: #FFFFFF;
     border: none;
     border-radius: 5px;
     font-weight: bold;
